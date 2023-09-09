@@ -1,3 +1,4 @@
+### Calculator App
 This project is created using ReactJS
 
 It uses a combination of HTML,CSS and JavaScript
