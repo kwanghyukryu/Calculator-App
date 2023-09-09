@@ -3,7 +3,7 @@ This project is created using ReactJS
 
 It uses a combination of HTML,CSS and JavaScript
 
-To run the program, open the terminal and type in "npm start"
+To run the program, download NodeJS on your computer, open the terminal and type in "npm start"
 this will then open a local website with a created calculator
 
 To use the calculator, you simply hover over desired button and click on it.
